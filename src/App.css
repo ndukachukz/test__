@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.userItem {
+  margin-bottom: 20;
+}
+.profileItemLabel {
+  font-weight: 700;
+  margin-right: 10;
+}
